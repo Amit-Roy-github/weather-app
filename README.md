@@ -1,4 +1,4 @@
-#Tech Stack Used
+# Tech Stack Used
 
 
 # React + Vite
