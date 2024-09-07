@@ -21,7 +21,7 @@
 - Let the User Know about the Country Name , State Name and City .
 - The Longitue and Latitude of the location
 
-  ![Screenshot ](./src/assets/images/location(2).png)
+  ![Screenshot ](./src/assets/images/location.png)
 
 ## Input Field 
 - Allow User  to  know Forecast Details of any City .
