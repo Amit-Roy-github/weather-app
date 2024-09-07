@@ -5,7 +5,13 @@
     - 💃  Using javascript , Hooks , Proops , vites and other parts of a modern frontend stack
     - 🎨 Material-ui for frontend component
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](./src/assets/images/colony.webp)
+
+
+## Forecast Details 
+- Displays Current Weather Temperature details and next 5 Hours also .
+- Including Humidity , Wind Speed , Pressure , Dew Point , Cloud and Air Quality .
+- And Udates with current condition Cloudy or Patchy Rainy or Mist .
+![Screenshot](./src/assets/images/Screenshot 2024-09-07 190123.png)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
