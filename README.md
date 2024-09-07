@@ -3,7 +3,7 @@
 ## Tech Stack Used
 
 - ⚡Api to fetch Weather Forecast Deatais .
-- 🚀 React for ther frontend .
+- 🚀 React for the frontend .
     - 💃  Using javascript , Hooks , Proops , vites and other parts of a modern frontend stack
     - 🎨 Material-ui for frontend component
 - 📜 Node.js javascript runtime environment .
