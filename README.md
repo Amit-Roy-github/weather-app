@@ -12,7 +12,7 @@
 - Including Humidity , Wind Speed , Pressure , Dew Point , Cloud and Air Quality .
 - And Udates with current condition Cloudy or Patchy Rainy or Mist .
 
-  ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+  ![Screenshot ](./src/assets/images/tem.png)
   
 # React + Vite
 
