@@ -26,7 +26,7 @@
 
 ## Input Field 
 - Allow User  to  know Forecast Details of any City .
-- Takes the Input and Render the   the information immediately .
+- The field takes input and renders the information immediately.
 
    ![Screenshot ](./src/assets/images/input.png)
   
