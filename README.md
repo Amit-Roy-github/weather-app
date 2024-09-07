@@ -1,4 +1,6 @@
-# Tech Stack Used
+# Weather App
+
+## Tech Stack Used
 
 - ⚡Api to fetch Weather Forecast Deatais .
 - 🚀 React for ther frontend .
