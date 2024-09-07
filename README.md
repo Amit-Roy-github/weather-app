@@ -10,9 +10,22 @@
 ## Forecast Details 
 - Displays Current Weather Temperature details and next 5 Hours also .
 - Including Humidity , Wind Speed , Pressure , Dew Point , Cloud and Air Quality .
-- And Udates with current condition Cloudy or Patchy Rainy or Mist .
+- And Udates with current condition Cloudy or Patchy Rain or Mist or Thunder Strike .
 
   ![Screenshot ](./src/assets/images/tem.png)
+
+
+## Detail of your specified Location 
+- Let the User Know about the Country Name , State Name and City .
+- The Longitue and Latitude of the location
+
+  ![Screenshot ](./src/assets/images/location.png)
+
+## Input Field 
+- Allow User  to  know Forecast Details of any City .
+- Takes the Input and Render the   the information immediately .
+
+   ![Screenshot ](./src/assets/images/input.png)
   
 # React + Vite
 
