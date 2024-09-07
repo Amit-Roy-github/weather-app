@@ -6,6 +6,7 @@
 - 🚀 React for ther frontend .
     - 💃  Using javascript , Hooks , Proops , vites and other parts of a modern frontend stack
     - 🎨 Material-ui for frontend component
+- 📜 Node.js javascript runtime environment .
 
 
 
