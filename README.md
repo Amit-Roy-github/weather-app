@@ -18,7 +18,7 @@
   ![Screenshot ](./src/assets/images/tem.png)
 
 
-## Detail of your specified Location 
+## Detail of your specific Location 
 - Let the User Know about the Country Name , State Name and City .
 - The Longitue and Latitude of the location
 
